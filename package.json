@@ -1,0 +1,10 @@
+{
+  "name": "wordbeater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Quick",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  }
+}
